@@ -1,1 +1,1 @@
-print working directoty or current  folder
+that is the cd to home directory
