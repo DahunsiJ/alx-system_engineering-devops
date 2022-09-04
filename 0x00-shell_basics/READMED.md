@@ -1,1 +1,1 @@
-to list the content in current directory
+that is the cd to home directory
